@@ -6,7 +6,7 @@
 
 ## Description
 
-This project is a simple sign-in form created using HTML and Bootstrap CSS. I have also used a little bit of CSS to design form elements.
+This project is a simple sign-in form created using HTML and Bootstrap CSS. I have also added a little bit of CSS to design form elements.
 
 ### Preview of the sign-in form :-
 
